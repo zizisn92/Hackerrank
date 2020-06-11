@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\MyProject\Hakerank\String\reduce_string\bin\Debug\netcoreapp3.1\reduce_string.exe
+C:\Users\admin\source\repos\MyProject\Hakerank\String\reduce_string\bin\Debug\netcoreapp3.1\reduce_string.deps.json
+C:\Users\admin\source\repos\MyProject\Hakerank\String\reduce_string\bin\Debug\netcoreapp3.1\reduce_string.runtimeconfig.json
+C:\Users\admin\source\repos\MyProject\Hakerank\String\reduce_string\bin\Debug\netcoreapp3.1\reduce_string.runtimeconfig.dev.json
+C:\Users\admin\source\repos\MyProject\Hakerank\String\reduce_string\bin\Debug\netcoreapp3.1\reduce_string.dll
+C:\Users\admin\source\repos\MyProject\Hakerank\String\reduce_string\bin\Debug\netcoreapp3.1\reduce_string.pdb
+C:\Users\admin\source\repos\MyProject\Hakerank\String\reduce_string\obj\Debug\netcoreapp3.1\reduce_string.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\MyProject\Hakerank\String\reduce_string\obj\Debug\netcoreapp3.1\reduce_string.AssemblyInfo.cs
+C:\Users\admin\source\repos\MyProject\Hakerank\String\reduce_string\obj\Debug\netcoreapp3.1\reduce_string.dll
+C:\Users\admin\source\repos\MyProject\Hakerank\String\reduce_string\obj\Debug\netcoreapp3.1\reduce_string.pdb

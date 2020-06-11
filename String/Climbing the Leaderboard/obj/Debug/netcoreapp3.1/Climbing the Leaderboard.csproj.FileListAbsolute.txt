@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\MyProject\Hakerank\Climbing the Leaderboard\bin\Debug\netcoreapp3.1\Climbing the Leaderboard.exe
+C:\Users\admin\source\repos\MyProject\Hakerank\Climbing the Leaderboard\bin\Debug\netcoreapp3.1\Climbing the Leaderboard.deps.json
+C:\Users\admin\source\repos\MyProject\Hakerank\Climbing the Leaderboard\bin\Debug\netcoreapp3.1\Climbing the Leaderboard.runtimeconfig.json
+C:\Users\admin\source\repos\MyProject\Hakerank\Climbing the Leaderboard\bin\Debug\netcoreapp3.1\Climbing the Leaderboard.runtimeconfig.dev.json
+C:\Users\admin\source\repos\MyProject\Hakerank\Climbing the Leaderboard\bin\Debug\netcoreapp3.1\Climbing the Leaderboard.dll
+C:\Users\admin\source\repos\MyProject\Hakerank\Climbing the Leaderboard\bin\Debug\netcoreapp3.1\Climbing the Leaderboard.pdb
+C:\Users\admin\source\repos\MyProject\Hakerank\Climbing the Leaderboard\obj\Debug\netcoreapp3.1\Climbing the Leaderboard.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\MyProject\Hakerank\Climbing the Leaderboard\obj\Debug\netcoreapp3.1\Climbing the Leaderboard.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\MyProject\Hakerank\Climbing the Leaderboard\obj\Debug\netcoreapp3.1\Climbing the Leaderboard.AssemblyInfo.cs
+C:\Users\admin\source\repos\MyProject\Hakerank\Climbing the Leaderboard\obj\Debug\netcoreapp3.1\Climbing the Leaderboard.dll
+C:\Users\admin\source\repos\MyProject\Hakerank\Climbing the Leaderboard\obj\Debug\netcoreapp3.1\Climbing the Leaderboard.pdb
